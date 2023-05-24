@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dth666
 - 👀 I’m interested in code, metal, knowledge.
 - 🌱 I’m currently learning electronics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me dth666@gmail.com
 
 <!---
 dth666/dth666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
