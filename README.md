@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning electronics
 - 📫 How to reach me dth666@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,MySQL, springboot, NetBeans)](https://skillicons.dev)
 
 <!---
 
