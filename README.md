@@ -4,6 +4,10 @@
 - 📫 How to reach me dth666@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dth666&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dth666)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
