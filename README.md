@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning electronics
 - 📫 How to reach me dth666@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dth666&hide=contribs,prs)
 <!---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
