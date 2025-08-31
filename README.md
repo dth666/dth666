@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dth666
 - 👀 I’m interested in code, metal, knowledge.
 - 🌱 I’m currently learning electronics
-- 📫 How to reach me dth666@gmail.com
+- 📫 How to reach me ev@estebanvega.com
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
